@@ -90,7 +90,7 @@
   color: var(--element1, #111111);
   cursor: pointer;
   background: none;
-  border: 3px solid #4CAF50;
+  border: 3px solid rgb(220, 241, 26);
   border-radius: var(--radius);
   box-shadow: var(--box-shadow);
 }
@@ -291,7 +291,8 @@ body {
     width:100px;
     height:50px;
     font-size: 2rem;
-    background-color: green;
+    background-color: rgb(220, 241, 26);
+    color: #111;
   }
 
   #Loser{
